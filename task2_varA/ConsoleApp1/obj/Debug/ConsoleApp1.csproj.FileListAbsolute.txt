@@ -1,0 +1,6 @@
+C:\Users\Lena Olishevska\Desktop\Универ\Лабы\Computer systems\lab2\task2_varA\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Lena Olishevska\Desktop\Универ\Лабы\Computer systems\lab2\task2_varA\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Lena Olishevska\Desktop\Универ\Лабы\Computer systems\lab2\task2_varA\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Lena Olishevska\Desktop\Универ\Лабы\Computer systems\lab2\task2_varA\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lena Olishevska\Desktop\Универ\Лабы\Computer systems\lab2\task2_varA\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Lena Olishevska\Desktop\Универ\Лабы\Computer systems\lab2\task2_varA\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
